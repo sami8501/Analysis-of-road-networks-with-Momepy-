@@ -89,13 +89,9 @@ Le notebook fourni illustre l'analyse du réseau pédestre de La Rochelle, démo
 - L'analyse du maillage basée sur la distance topologique et métrique
 - La visualisation des résultats sur des cartes
 
-## Contribution
-
-Les contributions à Momepy sont les bienvenues. Veuillez consulter le guide de contribution sur le dépôt GitHub du projet pour plus d'informations.
-
 ## Licence
 
-Momepy est distribué sous licence BSD 3-Clause. Voir le fichier LICENSE pour plus de détails.
+Momepy est distribué sous licence BSD 3-Clause.
 
 ## Contact
 
